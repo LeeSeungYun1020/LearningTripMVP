@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">러닝 트립</string>
+    <string name="title_home">홈</string>
+    <string name="title_story">스토리</string>
+    <string name="title_sticker">스티커</string>
+    <string name="title_setting">설정</string>
+</resources>
